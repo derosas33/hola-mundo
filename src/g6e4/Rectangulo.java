@@ -9,6 +9,7 @@ public class Rectangulo {
     
     private int altura;
     private int base;
+    private String atrib1;
     
     public Rectangulo(){
     }
